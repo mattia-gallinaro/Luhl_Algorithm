@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Algoritmo_di_Luhl/1.0.0": {
+        "runtime": {
+          "Algoritmo_di_Luhl.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Algoritmo_di_Luhl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

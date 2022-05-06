@@ -1,0 +1,16 @@
+C:\Users\galli\source\repos\Algoritmo_di_Luhl\bin\Debug\net5.0\Algoritmo_di_Luhl.exe
+C:\Users\galli\source\repos\Algoritmo_di_Luhl\bin\Debug\net5.0\Algoritmo_di_Luhl.deps.json
+C:\Users\galli\source\repos\Algoritmo_di_Luhl\bin\Debug\net5.0\Algoritmo_di_Luhl.runtimeconfig.json
+C:\Users\galli\source\repos\Algoritmo_di_Luhl\bin\Debug\net5.0\Algoritmo_di_Luhl.runtimeconfig.dev.json
+C:\Users\galli\source\repos\Algoritmo_di_Luhl\bin\Debug\net5.0\Algoritmo_di_Luhl.dll
+C:\Users\galli\source\repos\Algoritmo_di_Luhl\bin\Debug\net5.0\ref\Algoritmo_di_Luhl.dll
+C:\Users\galli\source\repos\Algoritmo_di_Luhl\bin\Debug\net5.0\Algoritmo_di_Luhl.pdb
+C:\Users\galli\source\repos\Algoritmo_di_Luhl\obj\Debug\net5.0\Algoritmo_di_Luhl.csproj.AssemblyReference.cache
+C:\Users\galli\source\repos\Algoritmo_di_Luhl\obj\Debug\net5.0\Algoritmo_di_Luhl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galli\source\repos\Algoritmo_di_Luhl\obj\Debug\net5.0\Algoritmo_di_Luhl.AssemblyInfoInputs.cache
+C:\Users\galli\source\repos\Algoritmo_di_Luhl\obj\Debug\net5.0\Algoritmo_di_Luhl.AssemblyInfo.cs
+C:\Users\galli\source\repos\Algoritmo_di_Luhl\obj\Debug\net5.0\Algoritmo_di_Luhl.csproj.CoreCompileInputs.cache
+C:\Users\galli\source\repos\Algoritmo_di_Luhl\obj\Debug\net5.0\Algoritmo_di_Luhl.dll
+C:\Users\galli\source\repos\Algoritmo_di_Luhl\obj\Debug\net5.0\ref\Algoritmo_di_Luhl.dll
+C:\Users\galli\source\repos\Algoritmo_di_Luhl\obj\Debug\net5.0\Algoritmo_di_Luhl.pdb
+C:\Users\galli\source\repos\Algoritmo_di_Luhl\obj\Debug\net5.0\Algoritmo_di_Luhl.genruntimeconfig.cache
